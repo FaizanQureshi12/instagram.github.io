@@ -1,0 +1,130 @@
+input#ji {
+  background-image: url(./pic/search-icon-jpg-18.jpg);
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: right;
+  padding-right: 20px;
+  margin-left: 180px;
+}
+
+div#po {
+  background-color: antiquewhite;
+  display: flex;
+  position: sticky;
+  top: 5px;
+  right: 15px;
+  left 15px;
+  bottom: auto;
+}
+
+img#oi {
+  margin-left: 5px;
+}
+
+img#pl {
+  margin-left: 5px;
+}
+
+ul#lo {
+  list-style-type: none;
+  margin-left: -35px;
+  line-height: 30px;
+}
+
+div#er {
+  background-color: deepskyblue;
+  width: 95px;
+  margin-top: -16px;
+}
+
+div#pkm {
+  position: absolute;
+  left: 110px;
+  top: 40px;
+}
+
+img#ui {
+  margin-left: 22%;
+}
+
+div#nk {
+  position: absolute;
+  left: 55%;
+  bottom: 30%;
+  background-color: aliceblue;
+  width: 350px;
+  height: 400px;
+  border: 1px solid;
+}
+
+button#tr {
+  width: 250px;
+  height: 35px;
+  background-color: lightblue;
+}
+
+h1#vg {
+  margin-left: 25%;
+  font-family: cursive;
+}
+
+div#ko {
+  position: absolute;
+  left: 55%;
+  bottom: 20%;
+  border: 1px solid;
+  width: 350px;
+  height: 45px;
+  margin-top: 30%;
+}
+
+div#lk {
+  position: absolute;
+  left: 55%;
+  bottom: 10%;
+}
+
+input#hu {
+  width: 270px;
+  height: 30px;
+}
+
+input#tg {
+  width: 270px;
+  height: 30px;
+}
+
+body#gh {
+  background-image: url(./pic/3-nature-wallpaper-mountain.jpg);
+  background-repeat: no-repeat;
+}
+
+div#tt {
+  margin-left: 40%;
+  width: 30%;
+  height: 350px;
+  background-color: blanchedalmond;
+  box-shadow: 10px 15px 10px black;
+}
+
+div#ul {
+  background-color: lightblue;
+  height: 15%;
+}
+
+h2#uj {
+  margin-left: 38%;
+  font-size: 250%;
+}
+
+input#bh {
+  margin-left: 1%;
+}
+
+input#il {
+  margin-left: 1%;
+}
+.btn-group-custom > .btn:first-child + .btn {
+
+  width: 200px;
+}
